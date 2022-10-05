@@ -30,4 +30,6 @@ The purpose of this analysis was to help Britta create an automated pipeline tha
 ## Deliverable 4: 
 ### Create the Movie Database
 
+
 ## Summary 
+Using the ETL method, an automated pipeline was created that takes new data, performs appropriate transformations, and loads the data into existing tables. You can find the new database in deliverable 4, or in the attached ETL_create_database file.
